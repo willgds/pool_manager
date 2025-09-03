@@ -234,8 +234,13 @@ def excluir_servico():
         mostrar_detalhes()
         messagebox.showinfo("✅ Sucesso", f"Serviço '{desc}' excluído!")
 
+#<<<<<<< HEAD
 # --- Função para editar pagamento ---
 # ...existing code...
+#=======
+# ...Removi o uso de SQLite e da função inexistente carregar_pagamentos.
+# Agora, editar/excluir pagamento funciona igual ao resto do app, usando o dicionário clientes e JSON.
+#>>>>>>> 42bafc0 (Salvando alterações locais antes do pull)
 
 def editar_pagamento():
     selection_cliente = listbox_clientes.curselection()
