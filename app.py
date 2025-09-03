@@ -386,3 +386,4 @@ tk.Button(frame_dir, text="Adicionar Pagamento", command=adicionar_pagamento).pa
 
 atualizar_lista()
 root.mainloop()
+#comentario de teste
