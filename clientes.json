@@ -1,0 +1,150 @@
+{
+    "Aline": {
+        "servico": "Limpeza Piscina",
+        "valor": 200.0,
+        "pago": true,
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 200.0,
+                "pago": true,
+                "data": "10/08/2025"
+            }
+        ],
+        "telefone": "14 99755-6091",
+        "observacoes": ""
+    },
+    "Guilherme Fernandes": {
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 200.0,
+                "pago": true,
+                "data": "20/07/2025"
+            }
+        ],
+        "telefone": "14 99843-0933"
+    },
+    "Joao pereira": {
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 200.0,
+                "pago": true,
+                "data": "20/08/2025"
+            }
+        ],
+        "telefone": "14 99761-0034"
+    },
+    "Maria Tereza": {
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 220.0,
+                "pago": true,
+                "data": "20/08/2025"
+            }
+        ],
+        "telefone": "14 99692-9184"
+    },
+    "Osmar": {
+        "telefone": "14 99604-3050",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 115.0,
+                "pago": true,
+                "data": "07/08/2025"
+            }
+        ]
+    },
+    "Rosana": {
+        "telefone": "14 99784-4008",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 300.0,
+                "pago": true,
+                "data": "14/08/2025"
+            }
+        ]
+    },
+    "Renata": {
+        "telefone": "14 997191996",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 300.0,
+                "pago": true,
+                "data": "10/08/2025"
+            }
+        ]
+    },
+    "Silvana": {
+        "telefone": "14 98124-8919",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 200.0,
+                "pago": true,
+                "data": "10/08/2025"
+            }
+        ]
+    },
+    "Sergio": {
+        "telefone": "14 99896-0364",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 220.0,
+                "pago": true,
+                "data": "10/08/2025"
+            }
+        ]
+    },
+    "Toninho": {
+        "telefone": "14 99133-0965",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 450.0,
+                "pago": false,
+                "data": "03/07/2025"
+            }
+        ]
+    },
+    "Thiago": {
+        "telefone": "14 98232-7700",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 180.0,
+                "pago": true,
+                "data": "04/08/2025"
+            }
+        ]
+    },
+    "Valdir": {
+        "telefone": "14 99111-0198",
+        "pagamentos": [
+            {
+                "servico": "Limpeza",
+                "valor": 160.0,
+                "pago": true,
+                "data": "08/08/2025"
+            },
+            {
+                "data": "10/10/2025",
+                "valor": "pago"
+            },
+            {
+                "data": "10/10/2025",
+                "valor": "pago"
+            },
+            {
+                "data": "10/10/2025",
+                "valor": "pago"
+            }
+        ]
+    }
+}
